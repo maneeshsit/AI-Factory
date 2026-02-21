@@ -1,4 +1,4 @@
-# AI-Factory
+# AI Platform Factory
 This repository contains the Open Source Software (OSS) components of PCIe-based AI accelerators and Thunderbolt 5 interface (up to 120 Gbps), supporting PCIe-based AI accelerators based on GPUs, FPGAs, ASICs, NPUs from NVIDIA, AMD, Xilinx, Intel, IBM, Qualcomm, Axelera AI, Samsung, Mobilint, Supergate, Huawei and more for both inference and training. A complete local AI platform engineered for enterprise use, compliance-sensitive workflows, always-on operation with Monitoring and Observability built by design. Democratizing access to multimodal large language models, proving that accessing high-performance LLM inference is achievable beyond centralized data centers and on the hardware people already own or plan to own thereby maximizing hardware efficiency and increasing accessibility. These open source software components are a subset of the General Availability (GA) release with some extensions and bug-fixes.
 
 1. Set Up the PCIe AI Accelerator
@@ -31,7 +31,7 @@ AMD: ROCProfiler and ROCTrace
 ![AI Platform Factory](https://github.com/user-attachments/assets/423d5a85-9c8b-44dc-b47a-41ddce3c48d7)
 
 # Comprehensive App Development Plan
-## Web, Android & iOS Application for PCIe Project
+## Web, Android & iOS Application for AI-Factory Project
 
 ---
 
@@ -57,9 +57,9 @@ performance where it matters most.
 
 ## 2. Project Overview
 
-### 2.1 Understanding the PCIe Project Context
+### 2.1 Understanding the AI-Factory Project Context
 
-The PCIe project available at the GitHub repository represents an opportunity to bring hardware-level PCI Express
+The AI-Factory project available at the GitHub repository represents an opportunity to bring hardware-level PCI Express
 capabilities to a broader audience through modern, accessible applications. PCI Express serves as the fundamental
 expansion bus interface in modern computing systems, connecting high-speed components including graphics cards,
 storage devices, network adapters, and specialized acceleration cards.
@@ -775,7 +775,7 @@ Automated testing prevents regression debt. Documentation prevents knowledge deb
 
 ## 12. Conclusion
 
-This comprehensive plan provides a roadmap for transforming the PCIe project into a full-featured, multi-platform
+This comprehensive plan provides a roadmap for transforming the AI-Factory project into a full-featured, multi-platform
 application suite that serves users across web, iOS, and Android platforms. By following the phased approach
 outlined in this document, the development team can systematically build capabilities while managing risk and
 maintaining quality.
