@@ -4,7 +4,7 @@ inference and Agentic AI workloads with greater efficiency and lower total cost 
 
 By running on heterogeneous, PCIe-based AI accelerators, it supports both inference and training on-premises and at the edge, 
 reducing total cost of ownership while improving return on investment and ensures full control over data to deliver a 
-straightforward platform with predictable, transparent, and controllable economics (tokenomics)
+straightforward platform with predictable, transparent, and controllable economics (tokenomics).
 
 
 # AI hardware accelerator-agnostic AI Platform Factory
